@@ -1,7 +1,7 @@
 # Web
 
 ## 웹페이지
-![image](https://user-images.githubusercontent.com/102014376/176829460-08497212-48da-44b8-b390-4b4a07f0b9a7.png)
+![image](https://user-images.githubusercontent.com/102014376/176829553-31742121-7445-4c32-9b56-c94badd9bfdb.png)
 #
 ![image](https://user-images.githubusercontent.com/102014376/176811392-0dccb9b3-f642-4312-86da-0838a5e77579.png)
 ### ul li를 써서 목록 비슷하게 만들었음.
