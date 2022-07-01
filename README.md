@@ -12,5 +12,8 @@
 ![image](https://user-images.githubusercontent.com/102014376/176815571-94eec29f-6979-4943-afec-45140cbbd6ef.png)
 ### 메인 화면으로 사진과 글을 넣음. 사진은 계속해서 바뀜.
 
+
+![image](https://user-images.githubusercontent.com/102014376/176815781-052c5322-378a-43f2-b4a4-8091a193c0ac.png)
+
 ![image](https://user-images.githubusercontent.com/102014376/176815674-953c9dbe-d5a7-4e21-a854-b63bb555f87b.png)
 ### 다른 기사를 넣을 공간으로 만들어 뒀음. 
